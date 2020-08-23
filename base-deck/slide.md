@@ -114,4 +114,4 @@ c(3);
 ---
 ## Video
 video
-<video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
+<video src="https://github.com/tubone24/blog/raw/master/static/assets/chainer-test.mp4"></video>
