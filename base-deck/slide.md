@@ -99,14 +99,18 @@ let b = 2;
 let c = x => 1 + 2 + x;
 c(3);
 ```
+
 ---
+
 ## 写真
 写真
 ![img](https://i.imgur.com/APah4wG.jpg)
+
 ---
 ## 絵文字
 
  🦔 
+
 ---
 ## Video
 
