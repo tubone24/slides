@@ -113,5 +113,5 @@ c(3);
 
 ---
 ## Video
-
+video
 <video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
