@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>テスト</title>
+
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/azusa.css" id="theme">
+    <link rel="stylesheet" href="plugin/highlight/atom-one-light.css" id="highlight-theme">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown="slide.md"
+                 data-separator="^\n---$"
+                 data-separator-vertical="^\n>>>$"
+                 data-separator-notes="^Note:">
+        </section>
+
+        <section style="text-align:left">
+          <h1>Thank you</h1>
+          <p class="align-icon"><img class="j-icon plain" data-src="img/blog.png" alt="Blog"><a href="https://blog.tubone-project24.xyz">https://blog.tubone-project24.xyz</a></p>
+          <p class="align-icon"><img class="j-icon plain" data-src="img/GitHub-Mark-64px.png" alt="GitHub"><a href="https://github.com/tubone24">tubone24</a></p>
+          <p class="align-icon"><img class="j-icon plain" data-src="img/twitter.png" alt="Twitter"><a href="https://twitter.com/meitante1conan">@meitante1conan</a></p>
+        </section>
+      </div>
+
+      <footer style="position:absolute;width:calc(100% - 1em);bottom:0;font-size:40%;z-index:1;display:flex;justify-content:space-between;padding:0.5em"><span>タイトル</span><span style="text-align:right">@tubone24</span></footer>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+      Reveal.initialize({
+        width: 1600,
+        height: 900,
+        hash: true,
+        backgroundTransition: 'slide',
+        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+      });
+    </script>
+  </body>
+</html>
