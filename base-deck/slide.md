@@ -25,21 +25,27 @@ tubone
 # デフォルトカラー
 >>>
 <!-- .slide: data-background="#ff5152" -->
+aaa
 # FF5152
 >>>
 <!-- .slide: data-background="#02A8F4" -->
+aaa
 # 02A8F4
 >>>
 <!-- .slide: data-background="#B867C6" -->
+aaa
 # B867C6
 >>>
 <!-- .slide: data-background="#FF9000" -->
+aaa
 # FF9000
 >>>
 <!-- .slide: data-background="#01BBD4" -->
+aaa
 # 01BBD4
 >>>
 <!-- .slide: data-background="#FF3F80" -->
+aaa
 # FF3F80
 ---
 
@@ -81,7 +87,7 @@ c(3);
 ```
 ---
 ## 写真
-
+写真
 ![img](https://i.imgur.com/APah4wG.jpg)
 ---
 ## 絵文字
