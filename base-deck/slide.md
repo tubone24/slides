@@ -12,41 +12,53 @@ tubone
 <img src="img/me.jpg" alt="自分" align="right" width="300" height="300">
 
 ---
+
 ## 突然ですが
+
 ---
 <!-- .slide: data-background="#fff3df" -->
 ## LT用パワポ作るのしんどくない？
+
 ---
+
 ## Azusa Colorテンプレートです
 - - -
 - アイテムを表示 <!-- .element: class="fragment" data-fragment-index="1" -->
 - アニメーションもOK <!-- .element: class="fragment" data-fragment-index="2" -->
+
 ---
 # デフォルトカラー
+
 >>>
 <!-- .slide: data-background="#ff5152" -->
 aaa
 # FF5152
+
 >>>
 <!-- .slide: data-background="#02A8F4" -->
 aaa
 # 02A8F4
+
 >>>
 <!-- .slide: data-background="#B867C6" -->
 aaa
 # B867C6
+
 >>>
 <!-- .slide: data-background="#FF9000" -->
 aaa
 # FF9000
+
 >>>
 <!-- .slide: data-background="#01BBD4" -->
 aaa
 # 01BBD4
+
 >>>
 <!-- .slide: data-background="#FF3F80" -->
 aaa
 # FF3F80
+
 ---
 
 ## Markdownで書くから管理も簡単
@@ -68,6 +80,7 @@ aaa
 1. 番号はどうでもいい
 
 >>>
+
 ### ページ２−１
 ページ２から垂直に下に遷移する  
 垂直遷移には補助的な説明を
@@ -76,6 +89,7 @@ aaa
 - 簡潔にね
 
 >>>
+
 ### ページ２−２
 コードもばっちり
 
