@@ -20,6 +20,11 @@ Yu Otsubo
 
 ---
 
+## いかがお過ごしでしたか？
+<!-- .slide: data-background="#02A8F4" -->
+
+---
+
 ## Azusa Colorテンプレートです
 - - -
 - アイテムを表示 <!-- .element: class="fragment" data-fragment-index="1" -->
