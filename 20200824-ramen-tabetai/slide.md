@@ -29,10 +29,10 @@ Yu Otsubo
 
 ## StayHomeをどう有意義に過ごすか？
 - - -
-- ゲームする
-- 本を読む
-- YouTubeを見る
-- サービス開発をする <!-- .element: class="fragment" highlight-red -->
+- ゲームする <!-- .element: class="fragment" data-fragment-index="1" -->
+- 本を読む <!-- .element: class="fragment" data-fragment-index="2" -->
+- YouTubeを見る <!-- .element: class="fragment" data-fragment-index="3" -->
+- サービス開発をする <!-- .element: class="fragment highlight-red" data-fragment-index="4" -->
 
 ---
 # デフォルトカラー
