@@ -31,7 +31,7 @@ Yu Otsubo
 - - -
 - ゲームする <!-- .element: class="fragment" data-fragment-index="1" -->
 - 本を読む <!-- .element: class="fragment" data-fragment-index="2" -->
-- サービス開発をする <!-- .element: class="fragment" data-fragment-index="2" highlight-red -->
+- サービス開発をする <!-- .element: class="fragment" data-fragment-index="3" --> <!-- .element: class="fragment" highlight-red -->
 
 ---
 # デフォルトカラー
