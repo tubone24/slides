@@ -62,13 +62,25 @@ Yu Otsubo
 ## 4連休でラーメンに関係するサービスを開発しよう
 <!-- .slide: data-background="#01BBD4" -->
 
-![img](img/2020-08-24 20.34.30.png)
+![img](img/2020-08-2420.34.30.png)
 
 ---
 
 # 1日目
 
 ---
+
+![img](img/chuunen_neet_snep.png)
+
+だらだら...
+
+---
+
+# 2日目
+
+![img](img/baseball_pitcher_woman.png)
+
+某野球美少女アニメを一気観する...
 
 # デフォルトカラー
 
