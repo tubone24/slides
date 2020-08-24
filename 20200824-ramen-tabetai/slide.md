@@ -96,9 +96,27 @@ Yu Otsubo
 ## ラーメン食べたいBot開発RTAとは？
 
 - 残り2日でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
-- カネがないので無料で作る<!-- .element: class="fragment" data-fragment-index="2" -->
+- カネがないので無料で作る <!-- .element: class="fragment" data-fragment-index="2" -->
 - エラーを吐いても弱音を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
 - ちゃんとテスト書いて、CIにも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
+
+---
+
+## とりあえず設計
+
+おばあちゃんが言っていた…
+
+設計をちゃんとしなさいと
+
+---
+
+## 10分で書いた
+
+![img](img/wire.png)
+
+---
+
+## 技術選定
 
 ---
 
