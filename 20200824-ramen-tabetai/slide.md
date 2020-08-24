@@ -16,8 +16,7 @@ Yu Otsubo
 ## 突然ですが
 
 ---
-<!-- .slide: data-background="#fff3df" -->
-## LT用パワポ作るのしんどくない？
+<!-- .slide: data-background="img/img_bb7d5b7877588c054e79d31c1b4e6587231905.jpg" -->
 
 ---
 
