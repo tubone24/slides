@@ -46,19 +46,27 @@ Yu Otsubo
 ---
 
 <div class="r-stack">
-  <img class="fragment" src="img/2020-08-24_17h53_00.png" width="450" height="300">
-  <img class="fragment" src="img/2020-08-24_17h55_17.png" width="300" height="450">
-  <img class="fragment" src="img/2020-08-24_22h09_39.png" width="400" height="400">
+  <img class="fragment" src="img/2020-08-24_17h53_00.png">
+  <img class="fragment" src="img/2020-08-24_17h55_17.png">
+  <img class="fragment" src="img/2020-08-24_22h09_39.png">
 </div>
 
 ---
 
 ## みんなラーメンたべたいらしい
 
+![img](img/food_ramen_iekei.png)
+
 ---
 
 ## 4連休でラーメンに関係するサービスを開発しよう
 <!-- .slide: data-background="#01BBD4" -->
+
+![img](img/2020-08-24 20.34.30.png)
+
+---
+
+# 1日目
 
 ---
 
