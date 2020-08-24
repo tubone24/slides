@@ -32,7 +32,29 @@ Yu Otsubo
 - ゲームする <!-- .element: class="fragment" data-fragment-index="1" -->
 - 本を読む <!-- .element: class="fragment" data-fragment-index="2" -->
 - YouTubeを見る <!-- .element: class="fragment" data-fragment-index="3" -->
-- サービス開発をする <!-- .element: class="fragment highlight-red" data-fragment-index="4" -->
+- サービス開発をする <!-- .element: class="fragment" data-fragment-index="4" -->
+
+---
+
+## サービス開発をする
+<!-- .slide: data-background="#ff5152" -->
+
+---
+
+## じゃあ何作る？
+
+---
+
+ラーメンたべたい
+
+---
+
+## みんなラーメンたべたいらしい
+
+---
+
+## ラーメンに関係するサービスを開発しよう
+<!-- .slide: data-background="#01BBD4" -->
 
 ---
 # デフォルトカラー
