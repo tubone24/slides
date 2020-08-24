@@ -8,6 +8,7 @@ Yu Otsubo
 
 - Yu Otsubo
 - 27歳・独身
+- Chatbotの開発をしてます
 
 <img src="img/me.jpg" alt="自分" align="right" width="300" height="300">
 
@@ -16,6 +17,7 @@ Yu Otsubo
 ## 突然ですが
 
 ---
+
 <!-- .slide: data-background="img/img_bb7d5b7877588c054e79d31c1b4e6587231905.jpg" -->
 
 ---
@@ -25,10 +27,11 @@ Yu Otsubo
 
 ---
 
-## Azusa Colorテンプレートです
+## StayHomeをどう有意義に過ごすか？
 - - -
-- アイテムを表示 <!-- .element: class="fragment" data-fragment-index="1" -->
-- アニメーションもOK <!-- .element: class="fragment" data-fragment-index="2" -->
+- ゲームする <!-- .element: class="fragment" data-fragment-index="1" -->
+- 本を読む <!-- .element: class="fragment" data-fragment-index="2" -->
+- サービス開発をする <!-- .element: class="fragment" data-fragment-index="2" highlight-red -->
 
 ---
 # デフォルトカラー
