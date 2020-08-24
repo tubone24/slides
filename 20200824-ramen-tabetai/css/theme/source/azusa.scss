@@ -12,11 +12,12 @@
 // Include theme-specific fonts
 @import url('fonts/magnetic-pro/magnetic-pro.css');
 @import url('fonts/magnetic-pro-black/magnetic-pro-black.css');
+@import url(//fonts.googleapis.com/css?family=M+PLUS+Rounded+1c);
 
 // Override theme settings (see ../template/settings.scss)
-$mainFont: 'Magnetic Pro', 'HeiTi SC', 'Microsoft YaHei', sans-serif;
+$mainFont: 'M PLUS Rounded 1c', sans-serif;
 $mainColor: #fff3df;
-$headingFont: 'Magnetic Pro Black', 'Arial Black', 'Microsoft YaHei', sans-serif;
+$headingFont: 'M PLUS Rounded 1c', sans-serif;
 $headingColor: #454c73;
 $headingTextShadow: none;
 $headingTextTransform: none;
