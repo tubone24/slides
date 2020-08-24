@@ -45,7 +45,11 @@ Yu Otsubo
 
 ---
 
-ラーメンたべたい
+<div class="r-stack">
+  <img class="fragment" src="img/2020-08-24_17h53_00.png" width="450" height="300">
+  <img class="fragment" src="img/2020-08-24_17h55_17.png" width="300" height="450">
+  <img class="fragment" src="img/2020-08-24_22h09_39.png" width="400" height="400">
+</div>
 
 ---
 
