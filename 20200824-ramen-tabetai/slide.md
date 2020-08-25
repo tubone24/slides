@@ -186,7 +186,9 @@ GASでの開発をサポートしてくれるすごいやつ
 
 ---
 
+## できた
 
+<video src="https://developers.line.biz/media/videos/messagingapi.mp4"></video>
 
 # デフォルトカラー
 
