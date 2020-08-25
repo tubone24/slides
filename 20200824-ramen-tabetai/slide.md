@@ -104,10 +104,10 @@ Yu Otsubo
 
 ## ラーメン食べたいBot開発RTAとは？
 
-- 残り**2日**でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
-- カネがないので**無料**で作る <!-- .element: class="fragment" data-fragment-index="2" -->
-- エラーを吐いても**弱音**を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
-- ちゃんと**テスト**書いて、**CI**にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
+- 残り<font color="#ff4500">**2日**</font>でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
+- カネがないので<font color="#ff4500">**無料**</font>で作る <!-- .element: class="fragment" data-fragment-index="2" -->
+- エラーを吐いても<font color="#ff4500">**弱音**</font>を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
+- ちゃんと<font color="#ff4500">**テスト**</font>書いて、<font color="#ff4500">**CI**</font>にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
@@ -141,6 +141,8 @@ Yu Otsubo
 LINEにBotアカウントをつくる
 
 無料だしドキュメントが本当に丁寧で開発RTA民にとってはありがたいおもちゃ
+
+<video src="https://developers.line.biz/media/videos/messagingapi.mp4"></video>
 
 ---
 
