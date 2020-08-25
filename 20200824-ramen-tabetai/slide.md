@@ -102,11 +102,11 @@ Yu Otsubo
 
 ---
 
-## ラーメン食べたいBot開発RTAとは？
+## ラーメン食べたいBot開発RTAの掟
 
 - 残り<font color="#ff4500">**2日**</font>でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
 - カネがないので<font color="#ff4500">**無料**</font>で作る <!-- .element: class="fragment" data-fragment-index="2" -->
-- エラーを吐いても<font color="#ff4500">**弱音**</font>を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
+- <font color="#ff4500">**要望**</font>には全力で答える <!-- .element: class="fragment" data-fragment-index="3" -->
 - ちゃんと<font color="#ff4500">**テスト・CI**</font>にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
@@ -196,23 +196,15 @@ GASでの開発をサポートしてくれるすごいやつ
 
 ---
 
-## Issueが来る来る
+## 1日目終了
 
 ---
 
-## バグ報告
-
-![img](img/Screenshot_20200824-180353.png)
-
-うまく結果がでない！
+## 2日目
 
 ---
 
-## 直した
-
----
-
-## 要望
+## 要望が来る
 
 ![img](img/2020-08-24_17h59_34.png)
 
@@ -220,7 +212,21 @@ GASでの開発をサポートしてくれるすごいやつ
 
 ---
 
-## 作った
+## RTAの掟
+
+要望には全力で答える
+
+---
+
+## 技術選定
+
+---
+
+## Firebase&Nuxt.js
+
+![img](img/nuxt_gas.png)
+
+Firebaseでホスティング&DB。ライフログ画面はNuxt.jsでパパっと作る
 
 ---
 
