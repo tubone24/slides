@@ -78,6 +78,8 @@ Yu Otsubo
 
 # 2日目
 
+---
+
 ![img](img/baseball_pitcher_woman.png)
 
 某野球美少女アニメを一気観する...
@@ -91,14 +93,17 @@ Yu Otsubo
 
 ## ラーメン食べたいBot開発RTA始動！
 
+> 世の中はすべてRTAである
+> <footer>—Yu Otsubo, <cite>Otsubo語録</cite></footer>
+
 ---
 
 ## ラーメン食べたいBot開発RTAとは？
 
-- 残り2日でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
-- カネがないので無料で作る <!-- .element: class="fragment" data-fragment-index="2" -->
-- エラーを吐いても弱音を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
-- ちゃんとテスト書いて、CIにも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
+- 残り*2日*でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
+- カネがないので*無料*で作る <!-- .element: class="fragment" data-fragment-index="2" -->
+- エラーを吐いても*弱音*を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
+- ちゃんと*テスト*書いて、*CI*にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
