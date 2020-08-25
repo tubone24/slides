@@ -5,17 +5,18 @@
  */
 @import url("fonts/magnetic-pro/magnetic-pro.css");
 @import url("fonts/magnetic-pro-black/magnetic-pro-black.css");
+@import url(//fonts.googleapis.com/css?family=M+PLUS+Rounded+1c);
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
 :root {
   --background-color: #00ba90;
-  --main-font: Magnetic Pro, HeiTi SC, Microsoft YaHei, sans-serif;
+  --main-font: M PLUS Rounded 1c, sans-serif;
   --main-font-size: 40px;
   --main-color: #fff3df;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
-  --heading-font: Magnetic Pro Black, Arial Black, Microsoft YaHei, sans-serif;
+  --heading-font: M PLUS Rounded 1c, sans-serif;
   --heading-color: #454c73;
   --heading-line-height: 1.2;
   --heading-letter-spacing: normal;
@@ -38,7 +39,7 @@
   background-color: #00ba90; }
 
 .reveal {
-  font-family: "Magnetic Pro", "HeiTi SC", "Microsoft YaHei", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-size: 40px;
   font-weight: normal;
   color: #fff3df; }
@@ -69,7 +70,7 @@
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #454c73;
-  font-family: "Magnetic Pro Black", "Arial Black", "Microsoft YaHei", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-weight: bold;
   line-height: 1.2;
   letter-spacing: normal;
@@ -313,7 +314,7 @@ span[role=img][aria-label] {
 span[role=img][aria-label]:focus::after,
 span[role=img][aria-label]:hover::after {
   font-size: 25%;
-  font-family: "Magnetic Pro", "HeiTi SC", "Microsoft YaHei", sans-serif;
+  font-family: "M PLUS Rounded 1c", sans-serif;
   font-weight: 400;
   position: absolute;
   display: block;
