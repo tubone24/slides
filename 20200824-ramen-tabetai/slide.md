@@ -107,7 +107,11 @@ Yu Otsubo
 - 残り<font color="#ff4500">**2日**</font>でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
 - カネがないので<font color="#ff4500">**無料**</font>で作る <!-- .element: class="fragment" data-fragment-index="2" -->
 - エラーを吐いても<font color="#ff4500">**弱音**</font>を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
-- ちゃんと<font color="#ff4500">**テスト**</font>書いて、<font color="#ff4500">**CI**</font>にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
+- ちゃんと<font color="#ff4500">**テスト・CI**</font>にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
+
+---
+
+# RTA1日目
 
 ---
 
@@ -188,7 +192,35 @@ GASでの開発をサポートしてくれるすごいやつ
 
 ## できた
 
-<video src="https://github.com/tubone24/slides/raw/master/20200824-ramen-tabetai/img/dekita.mp4" width="240" height="480"></video>
+<video src="https://github.com/tubone24/slides/raw/master/20200824-ramen-tabetai/img/dekita.mp4" width="312" height="624"></video>
+
+---
+
+## Issueが来る来る
+
+---
+
+## バグ報告
+
+![img](Screenshot_20200824-180353.png)
+
+うまく結果がでない！
+
+---
+
+## 直した
+
+---
+
+## 要望
+
+![img](2020-08-24_17h59_34.png)
+
+ラーメンライフログを作って！
+
+---
+
+## 作った
 
 ---
 
