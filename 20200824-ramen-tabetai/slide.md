@@ -91,6 +91,10 @@ Yu Otsubo
 
 ---
 
+## RTA始動！
+
+---
+
 ## ラーメン食べたいBot開発RTA始動！
 
 > 世の中はすべてRTAである
@@ -100,10 +104,10 @@ Yu Otsubo
 
 ## ラーメン食べたいBot開発RTAとは？
 
-- 残り*2日*でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
-- カネがないので*無料*で作る <!-- .element: class="fragment" data-fragment-index="2" -->
-- エラーを吐いても*弱音*を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
-- ちゃんと*テスト*書いて、*CI*にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
+- 残り**2日**でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
+- カネがないので**無料**で作る <!-- .element: class="fragment" data-fragment-index="2" -->
+- エラーを吐いても**弱音**を吐かない <!-- .element: class="fragment" data-fragment-index="3" -->
+- ちゃんと**テスト**書いて、**CI**にも力を入れる <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
@@ -134,7 +138,7 @@ Yu Otsubo
 
 ## LINE Messaging API
 
-LINEにBotアカウントをつくる形にする
+LINEにBotアカウントをつくる
 
 無料だしドキュメントが本当に丁寧で開発RTA民にとってはありがたいおもちゃ
 
@@ -150,11 +154,30 @@ Googleスプレッドシートのマクロ機能だが、APIコール、エン�
 
 こちらも無料だし、RTA民にはありがたいおもちゃ
 
----
-
-## でもちょっとGASってテストもCIも大変なんだよね
+![img](img/gas.png)
 
 ---
+
+## Clasp
+
+GASでの開発をサポートしてくれるすごいやつ
+
+- TypeScriptで書ける！ <!-- .element: class="fragment" data-fragment-index="1" -->
+- テストも書ける！ <!-- .element: class="fragment" data-fragment-index="2" -->
+- CIに乗っけやすい！<!-- .element: class="fragment" data-fragment-index="3" -->
+
+![img](https://user-images.githubusercontent.com/744973/42856573-a5d96d7c-89fa-11e8-9d69-8d2c66f00d8d.gif)
+
+---
+
+## ぐるなびAPI
+
+---
+
+
+
+---
+
 
 
 # デフォルトカラー
