@@ -188,7 +188,7 @@ GASでの開発をサポートしてくれるすごいやつ
 
 ## できた
 
-<video src="https://developers.line.biz/media/videos/messagingapi.mp4"></video>
+<video src="https://github.com/tubone24/slides/raw/master/20200824-ramen-tabetai/img/dekita.mov"></video>
 
 # デフォルトカラー
 
