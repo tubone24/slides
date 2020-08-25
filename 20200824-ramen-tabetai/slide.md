@@ -94,7 +94,7 @@ Yu Otsubo
 ## ラーメン食べたいBot開発RTA始動！
 
 > 世の中はすべてRTAである
-> <footer>—Yu Otsubo, <cite>Otsubo語録</cite></footer>
+> <footer>—Yu Otsubo</footer>
 
 ---
 
@@ -123,7 +123,39 @@ Yu Otsubo
 
 ## 技術選定
 
+開発RTAでは難しすぎず、かと言って陳腐すぎない技術を選ぶことが勝利の鍵
+
 ---
+
+## Messaging Platform
+<!-- .slide: data-background="#FF3F80" -->
+
+---
+
+## LINE Messaging API
+
+LINEにBotアカウントをつくる形にする
+
+無料だしドキュメントが本当に丁寧で開発RTA民にとってはありがたいおもちゃ
+
+---
+
+## Bot本体(サーバサイド)
+
+---
+
+## Google Apps Script
+
+Googleスプレッドシートのマクロ機能だが、APIコール、エンドポイント作成など大体のことはできます。
+
+こちらも無料だし、RTA民にはありがたいおもちゃ
+
+---
+
+## でもちょっとGASってテストもCIも大変なんだよね
+
+---
+
 
 # デフォルトカラー
 
