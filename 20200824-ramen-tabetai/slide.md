@@ -188,7 +188,9 @@ GASでの開発をサポートしてくれるすごいやつ
 
 ## できた
 
-<video src="https://github.com/tubone24/slides/raw/master/20200824-ramen-tabetai/img/dekita.mov"></video>
+<video src="https://github.com/tubone24/slides/raw/master/20200824-ramen-tabetai/img/dekita.mp4"></video>
+
+---
 
 # デフォルトカラー
 
