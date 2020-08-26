@@ -269,3 +269,7 @@ PRも待ってます。 <https://github.com/tubone24/ramen-tabetai>
 ![img](img/qr.png)&nbsp;[![img](img/68747470733a2f2f7363646e2e6c696e652d617070732e636f6d2f6e2f6c696e655f6164645f667269656e64732f62746e2f6a612e706e67.png)](https://lin.ee/Y9mUrIN)
 
 ---
+
+# Thank you
+
+---
