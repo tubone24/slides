@@ -112,6 +112,7 @@ Yu Otsubo
 ---
 
 # RTA1日目
+<!-- .slide: data-background="#01BBD4" -->
 
 ---
 
@@ -201,6 +202,7 @@ GASでの開発をサポートしてくれるすごいやつ
 ---
 
 ## 2日目
+<!-- .slide: data-background="#FF3F80" -->
 
 ---
 
