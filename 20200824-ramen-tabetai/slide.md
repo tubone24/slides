@@ -236,9 +236,19 @@ Firebaseでホスティング&DB。ライフログ画面はNuxt.jsでパパっ�
 
 ---
 
+## RTAの掟
+
+テスト・CIもきちんと
+
+---
+
 ### テスト書いた/CI整えた！
 
-![img](img/test_actions.png)
+<div class="r-stack">
+  <img class="fragment" src="img/badge.png" width="599" height="381">
+  <img class="fragment" src="img/test_actions.png" width="831" height="460">
+  <img class="fragment" src="img/actions.png" width="636" height="350">
+</div>
 
 GitHub ActionsとJestを使って継続的な開発も余裕！
 
