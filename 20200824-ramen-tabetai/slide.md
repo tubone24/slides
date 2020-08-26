@@ -254,91 +254,18 @@ GitHub ActionsとJestを使って継続的な開発も余裕！
 
 ---
 
-# デフォルトカラー
+## RTA成功🎉
 
->>>
-<!-- .slide: data-background="#ff5152" -->
-aaa
-# FF5152
+ニューノーマルな休日の過ごし方でした。
 
->>>
-<!-- .slide: data-background="#02A8F4" -->
-aaa
-# 02A8F4
+みんなもやってみよう！
 
->>>
-<!-- .slide: data-background="#B867C6" -->
-aaa
-# B867C6
-
->>>
-<!-- .slide: data-background="#FF9000" -->
-aaa
-# FF9000
-
->>>
-<!-- .slide: data-background="#01BBD4" -->
-aaa
-# 01BBD4
-
->>>
-<!-- .slide: data-background="#FF3F80" -->
-aaa
-# FF3F80
+PRも待ってます。 <https://github.com/tubone24/ramen-tabetai>
 
 ---
 
-## Markdownで書くから管理も簡単
+### ラーメンたべたいBotをフォローしよう!
 
-
-
-**次は２ページ目**
-
-<aside class="notes">
-  発表者が見るノート   
-  伝えたいことをメモ  
-</aside>
-
+![img](img/qr.png)&nbsp;[![img](img/68747470733a2f2f7363646e2e6c696e652d617070732e636f6d2f6e2f6c696e655f6164645f667269656e64732f62746e2f6a612e706e67.png)](https://lin.ee/Y9mUrIN)
 
 ---
-### ページ２
-- - -
-1. 数字付きのリスト
-1. 番号はどうでもいい
-
->>>
-
-### ページ２−１
-ページ２から垂直に下に遷移する  
-垂直遷移には補助的な説明を
-
-- 普通のリスト
-- 簡潔にね
-
->>>
-
-### ページ２−２
-コードもばっちり
-
-```js
-let a = 1;
-let b = 2;
-let c = x => 1 + 2 + x;
-c(3);
-```
-
----
-
-## 写真
-写真
-![img](https://i.imgur.com/APah4wG.jpg)
-
----
-## 絵文字
-
- 🦔 
-
----
-## Video
-video
-<video src="https://github.com/tubone24/blog/raw/master/static/assets/chainer-test.mp4"></video>
