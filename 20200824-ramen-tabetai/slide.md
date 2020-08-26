@@ -230,6 +230,12 @@ Firebaseでホスティング&DB。ライフログ画面はNuxt.jsでパパっ�
 
 ---
 
+## できた
+
+<video src="https://github.com/tubone24/slides/raw/master/20200824-ramen-tabetai/img/ramen.mp4" width="312" height="624"></video><video src="https://github.com/tubone24/slides/raw/master/20200824-ramen-tabetai/img/ramen2.mp4" width="312" height="624"></video>
+
+--
+
 ### テスト書いた/CI整えた！
 
 ![img](img/test_actions.png)
