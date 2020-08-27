@@ -8,7 +8,7 @@ Yu Otsubo
 
 - Yu Otsubo
 - 27歳・独身
-- Chatbotの開発をしてます
+- 普段はChatbotの開発をしてます
 
 <img src="img/me.jpg" alt="自分" align="right" width="300" height="300">
 
@@ -86,16 +86,18 @@ Yu Otsubo
 
 ---
 
-# あと2日しかない！！
+# あと2日しかない！！💦
 <!-- .slide: data-background="#B867C6" -->
 
 ---
 
-## RTA始動！
+## RTAだ！💨
+
+LTも早口でいくよ〜！！
 
 ---
 
-## ラーメン食べたい開発RTA始動！
+## ラーメン食べたい開発RTA始動！🍜
 
 > 世の中はすべてRTAである
 > <footer>—Yu Otsubo</footer>
@@ -123,6 +125,8 @@ Yu Otsubo
 ## 10分で書いた
 
 ![img](img/wire.png)
+
+こんなのに時間かけてはいけない。
 
 ---
 
