@@ -27,7 +27,7 @@ Yu Otsubo
 
 ---
 
-## StayHomeをどう有意義に過ごすか？
+## GoToできないキャンペーンをどう有意義に過ごすか？
 - - -
 - ゲームする <!-- .element: class="fragment" data-fragment-index="1" -->
 - 本を読む <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -80,9 +80,9 @@ Yu Otsubo
 
 ---
 
-![img](img/baseball_pitcher_woman.png)
+![img](img/chuunen_neet_snep.png)
 
-某野球美少女アニメを一気観する...
+だらだら...
 
 ---
 
@@ -95,14 +95,14 @@ Yu Otsubo
 
 ---
 
-## ラーメン食べたいBot開発RTA始動！
+## ラーメン食べたい開発RTA始動！
 
 > 世の中はすべてRTAである
 > <footer>—Yu Otsubo</footer>
 
 ---
 
-## ラーメン食べたいBot開発RTAの掟
+## ラーメン食べたい開発RTAの掟
 
 - 残り<font color="#ff4500">**2日**</font>でラーメンに関するそこそこのサービスを作る <!-- .element: class="fragment" data-fragment-index="1" -->
 - カネがないので<font color="#ff4500">**無料**</font>で作る <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -118,10 +118,6 @@ Yu Otsubo
 
 ## とりあえず設計
 
-おばあちゃんが言っていた…
-
-設計をちゃんとしなさいと
-
 ---
 
 ## 10分で書いた
@@ -136,11 +132,6 @@ Yu Otsubo
 
 ---
 
-## Messaging Platform
-<!-- .slide: data-background="#FF3F80" -->
-
----
-
 ## LINE Messaging API
 
 LINEにBotアカウントをつくる
@@ -148,10 +139,6 @@ LINEにBotアカウントをつくる
 無料だしドキュメントが本当に丁寧で開発RTA民にとってはありがたいおもちゃ
 
 <video src="https://developers.line.biz/media/videos/messagingapi.mp4"></video>
-
----
-
-## Bot本体(サーバサイド)
 
 ---
 
@@ -169,9 +156,9 @@ Googleスプレッドシートのマクロ機能だが、APIコール、エン�
 
 GASでの開発をサポートしてくれるすごいやつ
 
-- TypeScriptで書ける！ <!-- .element: class="fragment" data-fragment-index="1" -->
-- テストも書ける！ <!-- .element: class="fragment" data-fragment-index="2" -->
-- CIに乗っけやすい！<!-- .element: class="fragment" data-fragment-index="3" -->
+- TypeScriptで書ける！
+- テストも書ける！
+- CIに乗っけやすい！
 
 ![img](https://user-images.githubusercontent.com/744973/42856573-a5d96d7c-89fa-11e8-9d69-8d2c66f00d8d.gif)
 
@@ -186,6 +173,8 @@ GASでの開発をサポートしてくれるすごいやつ
 ---
 
 ## 雑シーケンス
+
+つくるぞ〜
 
 ![img](img/gas-line.png)
 
