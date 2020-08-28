@@ -263,6 +263,10 @@ GitHub ActionsとJestを使って継続的な開発も余裕！
 
 ご意見・ご要望お待ちしてます！
 
+PRも待っているよ！
+
+<https://github.com/tubone24/ramen-tabetai>
+
 ---
 
 # Thank you
