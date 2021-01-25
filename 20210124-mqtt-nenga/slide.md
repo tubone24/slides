@@ -18,11 +18,17 @@ Yu Otsubo
 
 ---
 
+# 年賀状
+
+---
+
+## Yahoo!知恵袋
+
 <img src="img/2021-01-24_19h00_43.png" alt="Yahoo知恵袋" align="center">
 
 ---
 
-## 悲しいですねっ....
+## 年賀状めんどくさいですね...
 
 <!-- .slide: data-background="#02A8F4" -->
 
@@ -64,14 +70,6 @@ Yu Otsubo
 
 ---
 
-### 注意
-
-私はIoTの専門家ではないので、いい加減なことを言っているかもしれません。
-
-ご了承ください。
-
----
-
 ## 雑なアイディア
 
 <img src="img/gainen.png" alt="概念" align="center" >
@@ -89,8 +87,6 @@ Yu Otsubo
 <img src="img/2021-01-24_19h56_19.png" alt="電子ペーパー" align="center" >
 
 結構中華製電子ペーパーがAmazonに売ってます。
-
-本当は[M5Paper](https://m5stack.com/products/m5paper-esp32-development-kit-960x540-4-7-eink-display-235-ppi?variant=37595977908396)使いたかった...
 
 これで本物に近い年賀状デバイスができそうだ！
 
@@ -116,9 +112,11 @@ Yu Otsubo
 
 ## MQTT
 
-<img src="img/mqtt.png" alt="Modern Arch" align="center" height="600" >
+<img src="img/mqtt.png" alt="Modern Arch" align="center" height="500" >
 
 IoT機器を絡めたPub/SubモデルはMQTTが有名なので使ってみる
+
+年賀状送信側をPublisher、年賀状受け取り側をSubscriberとする
 
 ---
 
@@ -133,21 +131,45 @@ IoT機器を絡めたPub/SubモデルはMQTTが有名なので使ってみる
 
 ---
 
-## 今年が終わっちゃう！💦
+## 技術的な苦難の連続
 
-早く作らないと...。
+<img src="img/kunan.png" alt="kunan" align="center" width=600 align="right">
 
-<img src="img/2021-01-24_23h47_09.png" alt="calender" align="center" >
-
-<!-- .slide: data-background="#B867C6" -->
+- Reactの型が通らない！！
+- 電子ペーパーがうまく起動しない！
+- Dockerイメージが大きすぎる！
+- 小規模開発だからRecoil使わない！
+- etc...
 
 ---
 
 ## できた！
 
-デモ動画
+---
+### デモ動画
+
+<video src="img/demo.mp4" width=1100 ></video>
+---
+
+# 無事完成
 
 ---
+
+## 課題
+
+- - -
+- デバイスの価格 <!-- .element: class="fragment" data-fragment-index="1" -->
+- 気軽に相手のLINEへPushするくらいのサービスでよい気がする <!-- .element: class="fragment" data-fragment-index="2" -->
+- 出来上がったのが12/31なのでデバイスを送る暇がなかった。 <!-- .element: class="fragment" data-fragment-index="3" -->
+- 年賀状を送る人がいなかった <!-- .element: class="fragment" data-fragment-index="4" -->
+
+---
+
+## ともあれ
+
+- MQTTという素晴らしいプロトコルに出会えた
+- React/TypeScript/Tailwind/Recoilちょっとデキる
+- 電子ペーパー楽しい
 
 ---
 
