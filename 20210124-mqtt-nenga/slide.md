@@ -146,9 +146,11 @@ IoT機器を絡めたPub/SubモデルはMQTTが有名なので使ってみる
 ## できた！
 
 ---
+
 ### デモ動画
 
 <video src="img/demo.mp4" width=1100 ></video>
+
 ---
 
 # 無事完成
