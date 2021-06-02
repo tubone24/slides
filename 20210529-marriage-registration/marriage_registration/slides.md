@@ -63,6 +63,26 @@ h1 {
 
 ---
 
+# 一方で
+
+<style>
+h1 {
+  background-color: #2B90B6;
+ height: 400px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+
 # 未婚率の推移
 
 近年増えている未婚。日本の未来は明るいとは言えない。
@@ -122,15 +142,119 @@ h1 {
 </style>
 
 ---
+
+# まとめると
+
+<style>
+h1 {
+  background-color: #2B90B6;
+ height: 400px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+
+# 気軽にPRを送りあって婚活し、CICDで手軽に結婚しちゃおう
+
+<style>
+h1 {
+  background-color: #2B90B6;
+ height: 400px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+
+# ざっくりアイディア
+
+GitHubのPRを使って気になる相手とマッチング。CICDが回って婚姻届ができる！！
+
+![img](https://i.imgur.com/VogpT7W.png)
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+
+# 注意事項
+
+婚姻届は[戸籍法施行規則第59条に指定されている様式](http://www.moj.go.jp/content/000116683.pdf)に従っていれば受理されるらしい。
+
+- A3の長方形の用紙に印刷し、切り込みを入れたり形を変えたりしてはいけない
+- 規定の項目が揃っている必要がある(婚姻の届書(戸籍法施行規則附録第12号)に則っていなければならない)
+
+![](https://i.imgur.com/ZoY0EYl.jpg)
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+
+# できた！！
+
+- 印字は**ReportLab**を使用
+- CICDは**GitHub Actions**を使用
+
+![img](https://i.imgur.com/FaOpqq4.png)
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
 layout: image-right
 image: https://i.imgur.com/VEiAVch.png
 ---
 
 # Code
 
-こんな感じでYamlを書きます。
+結婚したい相手のコンフィグにたいしてこんな感じでYamlを書きます。
 
-```yaml {all|2|1-6|9|all}
+```yaml
 wife:
   last_name: 貫井
   last_name_pos: [420,590]
@@ -150,7 +274,29 @@ wife:
   address_go: １０
 ```
 
-<arrow v-click="3" x1="400" y1="420" x2="230" y2="330" color="#564" width="3" arrowSize="1" />
+---
+
+# ランディングページも作ってみました
+
+Forkしてあなたも今日からPR婚活CICD結婚をしましょう！
+
+[Learn More](https://marriage-registration-landing-page.vercel.app/)
+
+![img](https://i.imgur.com/g7UsnDS.png)
+
+
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
 
 ---
 
