@@ -33,6 +33,27 @@ Make a marriage registration for continuous delivery!
 
 ---
 
+# 自己紹介
+
+## Yu Otsubo
+- 普段は業務でチャットボット作ってます
+- 趣味でネットの**産業廃棄物**をたくさん作ってます
+- Tech-inでふざける人
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+
 # 継続的デリバリーとは？
 
 そもそも継続的デリバリーって何でしょうか？
@@ -67,7 +88,7 @@ PRとも呼ばれるPullRequestとはいったいどんなメリットがある�
 
 PullRequestではレビュアーが承認(Approve)したものが本流に取り込まれるのです。
 
-![img](https://i.imgur.com/jSZ5Fhi.png)
+![img](https://i.imgur.com/LaTqmtO.png)
 
 <style>
 h1 {
@@ -107,7 +128,7 @@ h1 {
 
 近年増えている未婚。日本の未来は明るいとは言えない。
 
-![img](https://i.imgur.com/RRjx8Ii.png)
+![img](https://i.imgur.com/L5SJCon.png)
 
 <style>
 h1 {
@@ -230,7 +251,7 @@ h1 {
 - A3の長方形の用紙に印刷し、切り込みを入れたり形を変えたりしてはいけない
 - 規定の項目が揃っている必要がある(婚姻の届書(戸籍法施行規則附録第12号)に則っていなければならない)
 
-![](https://i.imgur.com/ZoY0EYl.jpg)
+![](https://i.imgur.com/ZoY0EYlt.jpg)
 
 <style>
 h1 {
@@ -251,7 +272,7 @@ h1 {
 - 印字は**ReportLab**を使用
 - CICDは**GitHub Actions**を使用
 
-![img](https://i.imgur.com/FaOpqq4.png)
+![img](https://i.imgur.com/1l7MIIi.png)
 
 <style>
 h1 {
@@ -326,5 +347,9 @@ h1 {
 - CICDで継続的に婚姻届をデリバリーしてはいけない
 
 ## 真面目に婚活します！！
+
+花嫁募集中！ 
+
+<https://github.com/tubone24/marriage_registration>
 
 ---

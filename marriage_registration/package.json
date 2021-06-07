@@ -9,6 +9,7 @@
     "@slidev/cli": "^0.15.0",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
+    "playwright-chromium": "^1.11.1",
     "slidev-theme-light-icons": "*"
   },
   "name": "marriage_registration"
